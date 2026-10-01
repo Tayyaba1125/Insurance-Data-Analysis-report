@@ -26,5 +26,4 @@ Power BI
 ## How to Open
 Download the .pbix file and open it with Power BI Desktop.
 
-## Credit
-Dataset sourced from an online course.
+
